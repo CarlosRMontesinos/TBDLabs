@@ -118,7 +118,7 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-xl {
-    padding: 20px 40px;
+    padding: 10px 40px;
     border-color: #fed136;
     border-radius: 3px;
     text-transform: uppercase;
@@ -279,6 +279,8 @@ header {
     padding-top: 200px;
     padding-bottom: 100px;
     border: 0px;
+    font-size: 22px;
+    line-height: 25px;
 }
 
 header .intro-text {
@@ -316,6 +318,8 @@ header .intro-text .intro-heading {
         margin-top: 15px;
         margin-bottom: 15px;
         font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 22px;
+        line-height: 25px;
      /*   padding-top: 300px;
         padding-bottom: 200px; */
     }
@@ -679,9 +683,9 @@ section#contact {
     background-position: center;
     background-repeat: repeat;
     border-radius: 5px;
-    margin: 0px; 
-    padding-top: 65px;
-    padding-bottom: 65px;
+    margin-top: 30px; 
+    padding-top: 20px;
+    padding-bottom: 20px;
     border: 0px;
 }
 
@@ -698,7 +702,8 @@ section#contact .form-group {
 
 section#contact .form-group input,
 section#contact .form-group textarea {
-    padding: 20px;
+    /*padding: 20px;*/
+    padding: 10px 40px;
 }
 
 section#contact .form-group input.form-control {
