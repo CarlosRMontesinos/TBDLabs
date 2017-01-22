@@ -307,11 +307,11 @@ header .intro-text .intro-emphasis {
     margin-top: 25px;
     margin-bottom: 40px;
     
-     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     /*font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;*/
     font-size: 40px;
     font-style: italic;
-    line-height: 22px;
+    line-height: 40px;
 }
 
 header .intro-text .intro-heading {
